@@ -1,2 +1,2 @@
-# The-Smart-EV-Wireless-Charging-System
+# The Smart EV Wireless Charging System Repository
 This is the official repository for my Final Year Project, The Smart EV Wireless Charging System
